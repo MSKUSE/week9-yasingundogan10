@@ -1,4 +1,9 @@
-package PACKAGE_NAME;
-
 public interface Drawable {
+
+
+
+    public void draw();
+
+
+
 }
